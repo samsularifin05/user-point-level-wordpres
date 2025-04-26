@@ -1,0 +1,36 @@
+/* Default warna (normal) */
+.upl-rank-icon svg path,
+.upl-rank-icon svg circle,
+.upl-rank-icon svg rect {
+  fill: var(--lp-primary-color);
+  stroke: var(--lp-primary-color);
+}
+
+/* Kalau parent <li> ada class .active, SVG di dalamnya warna putih */
+li.active .upl-rank-icon svg path,
+li.active .upl-rank-icon svg circle,
+li.active .upl-rank-icon svg rect {
+  fill: #ffffff;
+  stroke: #ffffff;
+}
+
+//Avatar
+.user-avatar-with-rank {
+  position: relative;
+  display: inline-block;
+}
+
+.rank-title-img {
+  position: absolute;
+  top: -14px; /* Posisi gambar rank di atas avatar */
+  left: 86%;
+  transform: translateX(-50%);
+  z-index: 10;
+}
+
+.rank-title-img img {
+  width: 50px; /* Ukuran gambar rank */
+  height: auto;
+  border-radius: 50%; /* Membuat gambar rank berbentuk lingkaran */
+  border: 2px solid #fff; /* Membuat border putih di sekitar gambar rank */
+}

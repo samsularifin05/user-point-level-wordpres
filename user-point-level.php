@@ -5,6 +5,8 @@
  * Description: Plugin untuk mengelola Level berdasarkan Point.
  * Version: 1.0
  * Author: Samsul Arifin
+ * Author: Samsul Arifin
+ * Link : https://github.com/samsularifin05/user-point-level-wordpres
  */
 
 // Cegah akses langsung

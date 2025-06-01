@@ -10,13 +10,9 @@
  */
 
 // Cegah akses langsung
-if (!defined('ABSPATH')) {
+if (! defined('ABSPATH')) {
     exit;
 }
-
-
-
-
 
 // Load file fungsi
 require_once plugin_dir_path(__FILE__) . 'includes/setup.php';
@@ -26,6 +22,7 @@ require_once plugin_dir_path(__FILE__) . 'includes/handlers.php';
 require_once plugin_dir_path(__FILE__) . 'includes/inject-rank-all-bbPres.php';
 require_once plugin_dir_path(__FILE__) . 'includes/update-profile-bbpres.php';
 require_once plugin_dir_path(__FILE__) . 'includes/edit-data-user.php';
+require_once plugin_dir_path(__FILE__) . 'includes/learnpress-filter-api.php';
 
 // Buat Menu di Admin
 add_action('admin_menu', function () {
@@ -39,16 +36,13 @@ add_action('admin_menu', function () {
     );
 });
 
-
 //Asstes
 add_action('wp_enqueue_scripts', 'upl_enqueue_styles');
 add_action('wp_enqueue_scripts', 'upl_enqueue_custom_js');
 
-
 //Crud
 add_action('admin_post_upl_delete_level', 'upl_delete_level_handler');
 add_action('admin_post_upl_save_levels', 'upl_save_levels_handler');
-
 
 //Add image to body
 add_filter('body_class', 'upl_add_user_data_to_body');

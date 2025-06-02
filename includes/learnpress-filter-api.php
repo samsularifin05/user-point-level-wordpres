@@ -115,9 +115,10 @@ function custom_learnpress_courses($request)
         $origin_price = get_post_meta($course_id, '_lp_regular_price', true);
         $on_sale      = ! empty($origin_price) && $price < floatval($origin_price);
 
-        $rating_info      = get_course_rating_info($course_id);
-        $curriculumDetail = get_curriculum_item_breakdown($course_id);
-        $data[]           = [
+        $rating_info         = get_course_rating_info($course_id);
+        $curriculumDetail    = get_curriculum_item_breakdown($course_id);
+        $totalUserJoinCourse = get_total_users_joined_course($course_id);
+        $data[]              = [
             'id'                    => $course_id,
             'name'                  => get_the_title($course_id),
             'image'                 => $image_url,
@@ -138,6 +139,7 @@ function custom_learnpress_courses($request)
             'sale_price_rendered'   => 'Rp' . number_format($on_sale ? $price : 0, 2, ',', '.'),
             'rating'                => $rating_info['average'],
             'review_count'          => $rating_info['count'],
+            'user_join'             => $totalUserJoinCourse,
             'curriculum'            => $curriculumDetail,
             'meta_data'             => $meta_data,
         ];
@@ -190,7 +192,7 @@ function get_curriculum_item_breakdown($course_id)
     global $wpdb;
 
     $row = $wpdb->get_row($wpdb->prepare(
-        "SELECT json FROM wp_learnpress_courses WHERE ID = %d",
+        "SELECT json FROM {$wpdb->prefix}learnpress_courses WHERE ID = %d",
         $course_id
     ));
 
@@ -211,4 +213,22 @@ function get_curriculum_item_breakdown($course_id)
         'lesson' => 0,
         'quiz'   => 0,
     ];
+}
+
+function get_total_users_joined_course($course_id)
+{
+    global $wpdb;
+
+    $real_count = (int) $wpdb->get_var(
+        $wpdb->prepare("
+            SELECT COUNT(DISTINCT user_id)
+            FROM {$wpdb->prefix}learnpress_user_items
+            WHERE item_id = %d AND item_type = 'lp_course'
+        ", $course_id)
+    );
+
+    $fake_count = (int) get_post_meta($course_id, '_lp_students', true);
+
+    $total = $real_count + $fake_count;
+    return intval($total);
 }

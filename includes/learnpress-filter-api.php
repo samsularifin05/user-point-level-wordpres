@@ -1,4 +1,10 @@
 <?php
+function register_lp_course_tags()
+{
+    register_taxonomy_for_object_type('post_tag', 'lp_course');
+}
+add_action('init', 'register_lp_course_tags');
+
 add_action('rest_api_init', function () {
     register_rest_route('learnpress/v1', '/courses', [
         'methods'             => 'GET',
@@ -10,6 +16,7 @@ add_action('rest_api_init', function () {
 function custom_learnpress_courses($request)
 {
     $tags     = $request->get_param('tags');
+    $level    = $request->get_param('level');
     $search   = $request->get_param('search');
     $page     = isset($request['page']) ? max(1, intval($request['page'])) : 1;
     $per_page = isset($request['per_page']) ? intval($request['per_page']) : 9;
@@ -58,12 +65,25 @@ function custom_learnpress_courses($request)
     }
 
     if (! empty($tags)) {
-        $tag_slugs           = array_map('sanitize_title', explode(',', $tags));
+        $tag_slugs = array_map('sanitize_title', explode(',', $tags));
+
+        if (! isset($args['tax_query'])) {
+            $args['tax_query'] = [];
+        }
+
         $args['tax_query'][] = [
-            'taxonomy' => 'post_tag',
+            'taxonomy' => 'course_tag', // GANTI dari 'post_tag' ke 'course_tag'
             'field'    => 'slug',
             'terms'    => $tag_slugs,
             'operator' => 'IN',
+        ];
+    }
+
+    if (! empty($level)) {
+        $args['meta_query'][] = [
+            'key'     => '_lp_level',
+            'value'   => $level, // contoh: 'beginner'
+            'compare' => '=',
         ];
     }
 

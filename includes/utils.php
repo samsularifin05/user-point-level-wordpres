@@ -1,10 +1,14 @@
 <?php
-function verify_signature($request, $secret = 'abc123')
+
+define('MY_API_SECRET_KEY', 'b3r4sput1h');
+
+function verify_signature($request)
 {
+    $secret    = MY_API_SECRET_KEY;
     $signature = $request->get_header('X-Signature');
 
     if (! $signature) {
-        return new WP_Error('missing_signature', 'Signature tidak dikirim', ['status' => 401]);
+        return new WP_Error('missing_signature', 'Invalid Signature', ['status' => 401]);
     }
 
     $body                 = $request->get_body();

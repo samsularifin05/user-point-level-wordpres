@@ -1,11 +1,11 @@
 <?php
 require_once __DIR__ . '/utils.php';
 
-// function register_lp_course_tags()
-// {
-//     register_taxonomy_for_object_type('post_tag', 'lp_course');
-// }
-// add_action('init', 'register_lp_course_tags');
+function register_lp_course_tags()
+{
+    register_taxonomy_for_object_type('post_tag', 'lp_course');
+}
+add_action('init', 'register_lp_course_tags');
 
 add_action('rest_api_init', function () {
     register_rest_route('learnpress/v1', '/courses', [
@@ -17,6 +17,11 @@ add_action('rest_api_init', function () {
 
 function custom_learnpress_courses($request)
 {
+
+    $verify = verify_signature($request);
+    if (is_wp_error($verify)) {
+        return $verify; // return error jika signature salah
+    }
     $tags     = $request->get_param('tags');
     $level    = $request->get_param('level');
     $search   = $request->get_param('search');
@@ -269,6 +274,12 @@ add_action('rest_api_init', function () {
 
 function add_fake_course_comment($request)
 {
+
+    $verify = verify_signature($request);
+    if (is_wp_error($verify)) {
+        return $verify; // return error jika signature salah
+    }
+
     $params = $request->get_json_params();
 
     if (! isset($params['comments']) || ! is_array($params['comments'])) {
@@ -282,6 +293,7 @@ function add_fake_course_comment($request)
         $author    = sanitize_text_field($comment_data['author'] ?? 'Fake User');
         $email     = sanitize_email($comment_data['email'] ?? 'fakeuser@example.com');
         $content   = sanitize_textarea_field($comment_data['content'] ?? 'This is a fake comment');
+        $title     = sanitize_textarea_field($comment_data['title'] ?? 'This is a fake comment');
         $rating    = (float) ($comment_data['rating'] ?? 5.0);
 
         if (! $course_id || get_post_type($course_id) !== 'lp_course') {
@@ -354,7 +366,7 @@ function add_fake_course_comment($request)
 
         if ($comment_id) {
             add_comment_meta($comment_id, '_lpr_rating', $rating);
-            add_comment_meta($comment_id, '_lpr_review_title', $content);
+            add_comment_meta($comment_id, '_lpr_review_title', $title);
         } else {
             $results[] = [
                 'success'   => false,

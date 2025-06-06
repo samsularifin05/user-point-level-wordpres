@@ -1,9 +1,11 @@
 <?php
-function register_lp_course_tags()
-{
-    register_taxonomy_for_object_type('post_tag', 'lp_course');
-}
-add_action('init', 'register_lp_course_tags');
+require_once __DIR__ . '/utils.php';
+
+// function register_lp_course_tags()
+// {
+//     register_taxonomy_for_object_type('post_tag', 'lp_course');
+// }
+// add_action('init', 'register_lp_course_tags');
 
 add_action('rest_api_init', function () {
     register_rest_route('learnpress/v1', '/courses', [
@@ -21,6 +23,7 @@ function custom_learnpress_courses($request)
     $page     = isset($request['page']) ? max(1, intval($request['page'])) : 1;
     $per_page = isset($request['per_page']) ? intval($request['per_page']) : 9;
     $offset   = ($page - 1) * $per_page;
+    $sort     = $request->get_param('sort');
 
                                                  // Ambil filter category dan price dari request
     $category = $request->get_param('category'); // contoh: slug kategori
@@ -31,6 +34,8 @@ function custom_learnpress_courses($request)
         'posts_per_page' => $per_page,
         'offset'         => $offset,
         'post_status'    => 'publish',
+        'orderby'        => 'date',
+        'order'          => ($sort === 'oldest') ? 'ASC' : 'DESC',
     ];
 
     if (! empty($search)) {
@@ -251,4 +256,124 @@ function get_total_users_joined_course($course_id)
 
     $total = $real_count + $fake_count;
     return intval($total);
+}
+
+//Fake COmment
+add_action('rest_api_init', function () {
+    register_rest_route('custom/v1', '/fake-comment', [
+        'methods'             => 'POST',
+        'callback'            => 'add_fake_course_comment',
+        'permission_callback' => '__return_true', // untuk development, sebaiknya dibatasi
+    ]);
+});
+
+function add_fake_course_comment($request)
+{
+    $params = $request->get_json_params();
+
+    if (! isset($params['comments']) || ! is_array($params['comments'])) {
+        return new WP_Error('invalid_params', 'Parameter "comments" harus berupa array.', ['status' => 400]);
+    }
+
+    $results = [];
+
+    foreach ($params['comments'] as $comment_data) {
+        $course_id = isset($comment_data['course_id']) ? (int) $comment_data['course_id'] : 0;
+        $author    = sanitize_text_field($comment_data['author'] ?? 'Fake User');
+        $email     = sanitize_email($comment_data['email'] ?? 'fakeuser@example.com');
+        $content   = sanitize_textarea_field($comment_data['content'] ?? 'This is a fake comment');
+        $rating    = (float) ($comment_data['rating'] ?? 5.0);
+
+        if (! $course_id || get_post_type($course_id) !== 'lp_course') {
+            $results[] = [
+                'success'   => false,
+                'course_id' => $course_id,
+                'error'     => 'Invalid course ID or not an lp_course',
+            ];
+            continue;
+        }
+
+        // Cek apakah user dengan email ini sudah ada
+        $user = get_user_by('email', $email);
+
+        if (! $user) {
+            // Buat user palsu jika belum ada
+            $random_password = wp_generate_password();
+            // $username        = sanitize_user(str_replace('@', '_', strstr($email, '@', true))) . '_' . wp_generate_password(4, false);
+            // $user_id         = wp_create_user($username, $random_password, $email);
+
+            // Ambil author, lowercase, hilangkan spasi
+            $base_username = strtolower(str_replace(' ', '', $author));
+
+            // Buat angka acak 50% kemungkinan ada angka 1-99, 50% kosong
+            $random_number = (mt_rand(0, 1) === 1) ? mt_rand(1, 99) : '';
+
+            // Gabungkan username
+            $username = $base_username . $random_number;
+
+            // Sanitasi username supaya aman
+            $username = sanitize_user($base_username . $random_number);
+            $user_id  = wp_insert_user([
+                'user_login' => $username,
+                'user_pass'  => $random_password,
+                'user_email' => $email,
+                'role'       => 'subscriber',
+            ]);
+
+            if (is_wp_error($user_id)) {
+                $results[] = [
+                    'success'   => false,
+                    'course_id' => $course_id,
+                    'error'     => 'Failed to create fake user: ' . $user_id->get_error_message(),
+                ];
+                continue;
+            }
+        } else {
+            $user_id = $user->ID;
+        }
+
+        $start_date       = strtotime('2025-04-01 00:00:00');
+        $end_date         = current_time('timestamp'); // waktu server WordPress sekarang
+        $random_timestamp = mt_rand($start_date, $end_date);
+
+        $comment_date     = date('Y-m-d H:i:s', $random_timestamp);
+        $comment_date_gmt = gmdate('Y-m-d H:i:s', $random_timestamp);
+        $comment_id       = wp_insert_comment([
+            'comment_post_ID'      => $course_id,
+            'comment_author'       => $author,
+            'comment_author_email' => $email,
+            'comment_content'      => $content,
+            'comment_type'         => 'review',
+            'comment_author_IP'    => '::1',
+            'comment_approved'     => 1,
+            'comment_agent'        => 'Fake User Bot Agent',
+            'comment_date'         => $comment_date,
+            'comment_date_gmt'     => $comment_date_gmt,
+            'user_id'              => $user_id, // ← gunakan user_id yang valid
+        ]);
+
+        if ($comment_id) {
+            add_comment_meta($comment_id, '_lpr_rating', $rating);
+            add_comment_meta($comment_id, '_lpr_review_title', $content);
+        } else {
+            $results[] = [
+                'success'   => false,
+                'course_id' => $course_id,
+                'error'     => 'Failed to insert comment',
+            ];
+            continue;
+        }
+
+        $results[] = [
+            'success'    => true,
+            'comment_id' => $comment_id,
+            'course_id'  => $course_id,
+            'author'     => $author,
+            'email'      => $email,
+            'user_id'    => $user_id,
+            'rating'     => $rating,
+        ];
+    }
+
+    return rest_ensure_response($results);
 }

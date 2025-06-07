@@ -3,7 +3,7 @@
 /**
  * Plugin Name: User Point Levels
  * Description: Plugin untuk mengelola Level berdasarkan Point.
- * Version: 1.1.5
+ * Version: 1.1.7
  * Author: Samsul Arifin
  * Author: Samsul Arifin
  * Link : https://github.com/samsularifin05/user-point-level-wordpres

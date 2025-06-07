@@ -8,7 +8,7 @@ function register_lp_course_tags()
 add_action('init', 'register_lp_course_tags');
 
 add_action('rest_pre_serve_request', function ($served, $result, $request, $server) {
-    header("Access-Control-Allow-Headers: Content-Type, X-Signature,x-timestamp, Authorization");
+    header("Access-Control-Allow-Headers: Content-Type, X-Signature,X-timestamp, Authorization");
     return $served;
 }, 10, 4);
 
@@ -23,10 +23,10 @@ add_action('rest_api_init', function () {
 function custom_learnpress_courses($request)
 {
 
-    $verify = verify_signature($request);
-    if (is_wp_error($verify)) {
-        return $verify; // return error jika signature salah
-    }
+    // $verify = verify_signature($request);
+    // if (is_wp_error($verify)) {
+    //     return $verify; // return error jika signature salah
+    // }
     $tags     = $request->get_param('tags');
     $level    = $request->get_param('level');
     $search   = $request->get_param('search');
@@ -185,6 +185,9 @@ function custom_learnpress_courses($request)
     // Pakai $total dari WP_Query bukan wp_count_posts yang total keseluruhan tanpa filter
     $response->header('X-WP-Total', intval($total));
     $response->header('X-WP-TotalPages', ceil($total / $per_page));
+    // $response->header('Cache-Control', 'no-store, no-cache, must-revalidate, max-age=0');
+    // $response->header('Pragma', 'no-cache');
+    // $response->header('Expires', '0');
 
     return $response;
 }

@@ -18,10 +18,10 @@ add_action('rest_api_init', function () {
 function custom_learnpress_courses($request)
 {
 
-    $verify = verify_signature($request);
-    if (is_wp_error($verify)) {
-        return $verify; // return error jika signature salah
-    }
+    // $verify = verify_signature($request);
+    // if (is_wp_error($verify)) {
+    //     return $verify; // return error jika signature salah
+    // }
     $tags     = $request->get_param('tags');
     $level    = $request->get_param('level');
     $search   = $request->get_param('search');
@@ -344,7 +344,7 @@ function add_fake_course_comment($request)
             $user_id = $user->ID;
         }
 
-        $start_date       = strtotime('2025-04-01 00:00:00');
+        $start_date       = strtotime('2025-01-01 00:00:00');
         $end_date         = current_time('timestamp'); // waktu server WordPress sekarang
         $random_timestamp = mt_rand($start_date, $end_date);
 
@@ -367,6 +367,7 @@ function add_fake_course_comment($request)
         if ($comment_id) {
             add_comment_meta($comment_id, '_lpr_rating', $rating);
             add_comment_meta($comment_id, '_lpr_review_title', $title);
+
         } else {
             $results[] = [
                 'success'   => false,

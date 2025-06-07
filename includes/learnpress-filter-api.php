@@ -441,3 +441,32 @@ function delete_comments_by_user_id($user_id)
 
     return "No comments found for user ID: $user_id";
 }
+
+add_action('rest_api_init', function () {
+    register_rest_route('custom/v1', '/users', [
+        'methods'             => 'GET',
+        'callback'            => 'custom_get_all_users',
+        'permission_callback' => '__return_true', // akses publik, ubah kalau perlu
+    ]);
+});
+
+function custom_get_all_users(WP_REST_Request $request)
+{
+    $verify = verify_signature($request);
+    if (is_wp_error($verify)) {
+        return $verify; // return error jika signature salah
+    }
+    $users = get_users();
+
+    $data = [];
+    foreach ($users as $user) {
+        $data[] = [
+            'ID'           => $user->ID,
+            'user_login'   => $user->user_login,
+            'user_email'   => $user->user_email,
+            'display_name' => $user->display_name,
+        ];
+    }
+
+    return rest_ensure_response($data);
+}

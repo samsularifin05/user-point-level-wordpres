@@ -1,0 +1,804 @@
+{
+  "comments": [
+    {
+      "course_id": 22435,
+      "author": "Indah Utami",
+      "email": "indahutami32@sidiktalent.com",
+      "title": "Ngoding jadi gak ngebosenin",
+      "content": "Dijelasin step by step, jadi ngerti beneran.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Hendra Lestari",
+      "email": "hendralestari50@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Dijelasin step by step, jadi ngerti beneran.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Oki Kurniawan",
+      "email": "okikurniawan60@sidiktalent.com",
+      "title": "Auto jago React Native",
+      "content": "Gila sih, materinya gampang dicerna banget!",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Budi Utami",
+      "email": "budiutami13@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Vina Lestari",
+      "email": "vinalestari42@sidiktalent.com",
+      "title": "Ngoding jadi gak ngebosenin",
+      "content": "Langsung bisa bikin app chat sendiri, gokil!",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Hendra Lestari",
+      "email": "hendralestari61@sidiktalent.com",
+      "title": "Cocok buat pemula",
+      "content": "Serasa diajarin temen sendiri, chill tapi masuk semua.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Tono Wijaya",
+      "email": "tonowijaya52@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "Serasa diajarin temen sendiri, chill tapi masuk semua.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Mira Saputra",
+      "email": "mirasaputra33@sidiktalent.com",
+      "title": "Cocok buat pemula",
+      "content": "Mantap, banyak tips and trik kece juga.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Nina Sari",
+      "email": "ninasari15@sidiktalent.com",
+      "title": "Asli mantap bet",
+      "content": "Langsung bisa bikin app chat sendiri, gokil!",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Rudi Kurniawan",
+      "email": "rudikurniawan58@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "React Native-nya dijelasin dari basic, jadi aman buat newbie.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Andi Utami",
+      "email": "andiutami27@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Budi Gunawan",
+      "email": "budigunawan51@sidiktalent.com",
+      "title": "Gaskeun belajarnya",
+      "content": "Dijelasin step by step, jadi ngerti beneran.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Lina Wulandari",
+      "email": "linawulandari10@sidiktalent.com",
+      "title": "Asli mantap bet",
+      "content": "Nggak ribet, penjelasannya enak banget didengerin.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Tono Kusuma",
+      "email": "tonokusuma97@sidiktalent.com",
+      "title": "Auto jago React Native",
+      "content": "Nggak ribet, penjelasannya enak banget didengerin.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Putri Kusuma",
+      "email": "putrikusuma63@sidiktalent.com",
+      "title": "Keren banget sih ini!",
+      "content": "Gila sih, materinya gampang dicerna banget!",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Mira Utami",
+      "email": "mirautami80@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "Makin pede bikin app sendiri gara-gara kursus ini.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Nina Sari",
+      "email": "ninasari14@sidiktalent.com",
+      "title": "Gaskeun belajarnya",
+      "content": "Gila sih, materinya gampang dicerna banget!",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Fajar Wulandari",
+      "email": "fajarwulandari20@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "Langsung bisa bikin app chat sendiri, gokil!",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Tono Saputra",
+      "email": "tonosaputra67@sidiktalent.com",
+      "title": "Auto jago React Native",
+      "content": "Mantap, banyak tips and trik kece juga.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Mira Kusuma",
+      "email": "mirakusuma25@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Indah Sari",
+      "email": "indahsari97@sidiktalent.com",
+      "title": "Cocok buat pemula",
+      "content": "Makin pede bikin app sendiri gara-gara kursus ini.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Gita Wijaya",
+      "email": "gitawijaya16@sidiktalent.com",
+      "title": "Ngoding jadi gak ngebosenin",
+      "content": "Serasa diajarin temen sendiri, chill tapi masuk semua.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Tono Wulandari",
+      "email": "tonowulandari53@sidiktalent.com",
+      "title": "Cocok buat pemula",
+      "content": "Dijelasin step by step, jadi ngerti beneran.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Fajar Wulandari",
+      "email": "fajarwulandari43@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Mantap, banyak tips and trik kece juga.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Rudi Wijaya",
+      "email": "rudiwijaya64@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "Nggak ribet, penjelasannya enak banget didengerin.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Nina Kusuma",
+      "email": "ninakusuma36@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Gila sih, materinya gampang dicerna banget!",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Kiki Wulandari",
+      "email": "kikiwulandari65@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Buat yang mau mulai belajar, ini sih pas banget.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Joko Putra",
+      "email": "jokoputra36@sidiktalent.com",
+      "title": "Ngoding jadi gak ngebosenin",
+      "content": "React Native-nya dijelasin dari basic, jadi aman buat newbie.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Tono Santoso",
+      "email": "tonosantoso86@sidiktalent.com",
+      "title": "Cocok buat pemula",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Tono Kurniawan",
+      "email": "tonokurniawan73@sidiktalent.com",
+      "title": "Auto jago React Native",
+      "content": "Makin pede bikin app sendiri gara-gara kursus ini.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Mira Anggraini",
+      "email": "miraanggraini34@sidiktalent.com",
+      "title": "Asli mantap bet",
+      "content": "Makin pede bikin app sendiri gara-gara kursus ini.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Joko Ramadhan",
+      "email": "jokoramadhan36@sidiktalent.com",
+      "title": "Cocok buat pemula",
+      "content": "Buat yang mau mulai belajar, ini sih pas banget.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Sari Santoso",
+      "email": "sarisantoso42@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "React Native-nya dijelasin dari basic, jadi aman buat newbie.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Oki Kurniawan",
+      "email": "okikurniawan46@sidiktalent.com",
+      "title": "Cocok buat pemula",
+      "content": "Makin pede bikin app sendiri gara-gara kursus ini.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Oki Lestari",
+      "email": "okilestari92@sidiktalent.com",
+      "title": "Asli mantap bet",
+      "content": "React Native-nya dijelasin dari basic, jadi aman buat newbie.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Andi Fauzi",
+      "email": "andifauzi22@sidiktalent.com",
+      "title": "Gaskeun belajarnya",
+      "content": "Serasa diajarin temen sendiri, chill tapi masuk semua.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Budi Kurniawan",
+      "email": "budikurniawan41@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Kiki Lestari",
+      "email": "kikilestari14@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Nggak ribet, penjelasannya enak banget didengerin.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Oki Kusuma",
+      "email": "okikusuma26@sidiktalent.com",
+      "title": "Fix nambah skill",
+      "content": "Serasa diajarin temen sendiri, chill tapi masuk semua.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Sari Gunawan",
+      "email": "sarigunawan93@sidiktalent.com",
+      "title": "Fix nambah skill",
+      "content": "Nggak ribet, penjelasannya enak banget didengerin.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Kiki Saputra",
+      "email": "kikisaputra10@sidiktalent.com",
+      "title": "Gaskeun belajarnya",
+      "content": "Buat yang mau mulai belajar, ini sih pas banget.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Dina Lestari",
+      "email": "dinalestari84@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "Buat yang mau mulai belajar, ini sih pas banget.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Lina Saputra",
+      "email": "linasaputra46@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "Gila sih, materinya gampang dicerna banget!",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Citra Kurniawan",
+      "email": "citrakurniawan61@sidiktalent.com",
+      "title": "Asli mantap bet",
+      "content": "Makin pede bikin app sendiri gara-gara kursus ini.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Putri Pratama",
+      "email": "putripratama34@sidiktalent.com",
+      "title": "Fix nambah skill",
+      "content": "React Native-nya dijelasin dari basic, jadi aman buat newbie.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Kiki Putra",
+      "email": "kikiputra99@sidiktalent.com",
+      "title": "Auto jago React Native",
+      "content": "Langsung bisa bikin app chat sendiri, gokil!",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Rudi Lestari",
+      "email": "rudilestari28@sidiktalent.com",
+      "title": "Gaskeun belajarnya",
+      "content": "Nggak ribet, penjelasannya enak banget didengerin.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Oki Fauzi",
+      "email": "okifauzi18@sidiktalent.com",
+      "title": "Ngoding jadi gak ngebosenin",
+      "content": "Gila sih, materinya gampang dicerna banget!",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Sari Kurniawan",
+      "email": "sarikurniawan18@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "Mantap, banyak tips and trik kece juga.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Joko Lestari",
+      "email": "jokolestari22@sidiktalent.com",
+      "title": "Gaskeun belajarnya",
+      "content": "Buat yang mau mulai belajar, ini sih pas banget.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Fajar Kusuma",
+      "email": "fajarkusuma49@sidiktalent.com",
+      "title": "Asli mantap bet",
+      "content": "Nggak ribet, penjelasannya enak banget didengerin.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Oki Ramadhan",
+      "email": "okiramadhan72@sidiktalent.com",
+      "title": "Auto jago React Native",
+      "content": "Mantap, banyak tips and trik kece juga.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Eka Pratama",
+      "email": "ekapratama40@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Gita Kusuma",
+      "email": "gitakusuma74@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Langsung bisa bikin app chat sendiri, gokil!",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Kiki Santoso",
+      "email": "kikisantoso62@sidiktalent.com",
+      "title": "Keren banget sih ini!",
+      "content": "Gila sih, materinya gampang dicerna banget!",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Tono Gunawan",
+      "email": "tonogunawan39@sidiktalent.com",
+      "title": "Cocok buat pemula",
+      "content": "Gila sih, materinya gampang dicerna banget!",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Hendra Anggraini",
+      "email": "hendraanggraini93@sidiktalent.com",
+      "title": "Auto jago React Native",
+      "content": "React Native-nya dijelasin dari basic, jadi aman buat newbie.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Oki Fauzi",
+      "email": "okifauzi57@sidiktalent.com",
+      "title": "Gaskeun belajarnya",
+      "content": "Gila sih, materinya gampang dicerna banget!",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Fajar Kusuma",
+      "email": "fajarkusuma27@sidiktalent.com",
+      "title": "Keren banget sih ini!",
+      "content": "Gila sih, materinya gampang dicerna banget!",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Kiki Fauzi",
+      "email": "kikifauzi99@sidiktalent.com",
+      "title": "Cocok buat pemula",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Eka Kusuma",
+      "email": "ekakusuma91@sidiktalent.com",
+      "title": "Gaskeun belajarnya",
+      "content": "Buat yang mau mulai belajar, ini sih pas banget.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Indah Sari",
+      "email": "indahsari50@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Langsung bisa bikin app chat sendiri, gokil!",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Fajar Putra",
+      "email": "fajarputra87@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Langsung bisa bikin app chat sendiri, gokil!",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Kiki Kusuma",
+      "email": "kikikusuma54@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "Langsung bisa bikin app chat sendiri, gokil!",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Andi Utami",
+      "email": "andiutami20@sidiktalent.com",
+      "title": "Keren banget sih ini!",
+      "content": "Dijelasin step by step, jadi ngerti beneran.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Andi Fauzi",
+      "email": "andifauzi96@sidiktalent.com",
+      "title": "Ngoding jadi gak ngebosenin",
+      "content": "Langsung bisa bikin app chat sendiri, gokil!",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Tono Putra",
+      "email": "tonoputra76@sidiktalent.com",
+      "title": "Cocok buat pemula",
+      "content": "Buat yang mau mulai belajar, ini sih pas banget.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Kiki Kusuma",
+      "email": "kikikusuma58@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "Nggak ribet, penjelasannya enak banget didengerin.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Indah Santoso",
+      "email": "indahsantoso13@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "Dijelasin step by step, jadi ngerti beneran.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Sari Wulandari",
+      "email": "sariwulandari56@sidiktalent.com",
+      "title": "Asli mantap bet",
+      "content": "Buat yang mau mulai belajar, ini sih pas banget.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Andi Santoso",
+      "email": "andisantoso99@sidiktalent.com",
+      "title": "Fix nambah skill",
+      "content": "Makin pede bikin app sendiri gara-gara kursus ini.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Vina Wulandari",
+      "email": "vinawulandari30@sidiktalent.com",
+      "title": "Keren banget sih ini!",
+      "content": "Serasa diajarin temen sendiri, chill tapi masuk semua.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Lina Wulandari",
+      "email": "linawulandari39@sidiktalent.com",
+      "title": "Fix nambah skill",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Mira Anggraini",
+      "email": "miraanggraini67@sidiktalent.com",
+      "title": "Asli mantap bet",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Budi Putra",
+      "email": "budiputra66@sidiktalent.com",
+      "title": "Auto jago React Native",
+      "content": "Makin pede bikin app sendiri gara-gara kursus ini.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Tono Wijaya",
+      "email": "tonowijaya12@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Serasa diajarin temen sendiri, chill tapi masuk semua.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Andi Fauzi",
+      "email": "andifauzi55@sidiktalent.com",
+      "title": "Cocok buat pemula",
+      "content": "Nggak ribet, penjelasannya enak banget didengerin.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Indah Utami",
+      "email": "indahutami93@sidiktalent.com",
+      "title": "Cocok buat pemula",
+      "content": "Makin pede bikin app sendiri gara-gara kursus ini.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Fajar Lestari",
+      "email": "fajarlestari33@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "Nggak ribet, penjelasannya enak banget didengerin.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Hendra Saputra",
+      "email": "hendrasaputra40@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "Mantap, banyak tips and trik kece juga.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Tono Anggraini",
+      "email": "tonoanggraini86@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "Nggak ribet, penjelasannya enak banget didengerin.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Lina Saputra",
+      "email": "linasaputra66@sidiktalent.com",
+      "title": "Ngoding jadi gak ngebosenin",
+      "content": "Buat yang mau mulai belajar, ini sih pas banget.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Dina Fauzi",
+      "email": "dinafauzi76@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "Nggak ribet, penjelasannya enak banget didengerin.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Mira Pratama",
+      "email": "mirapratama13@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Rudi Kusuma",
+      "email": "rudikusuma51@sidiktalent.com",
+      "title": "Gaskeun belajarnya",
+      "content": "React Native-nya dijelasin dari basic, jadi aman buat newbie.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Hendra Saputra",
+      "email": "hendrasaputra81@sidiktalent.com",
+      "title": "Fix nambah skill",
+      "content": "Dijelasin step by step, jadi ngerti beneran.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Gita Saputra",
+      "email": "gitasaputra62@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Gila sih, materinya gampang dicerna banget!",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Vina Pratama",
+      "email": "vinapratama19@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Hendra Wijaya",
+      "email": "hendrawijaya50@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "React Native-nya dijelasin dari basic, jadi aman buat newbie.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Joko Wulandari",
+      "email": "jokowulandari37@sidiktalent.com",
+      "title": "Wajib coba sih",
+      "content": "React Native-nya dijelasin dari basic, jadi aman buat newbie.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Eka Kusuma",
+      "email": "ekakusuma94@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 5
+    },
+    {
+      "course_id": 22435,
+      "author": "Lina Sari",
+      "email": "linasari84@sidiktalent.com",
+      "title": "Asli mantap bet",
+      "content": "Mantap, banyak tips and trik kece juga.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Andi Anggraini",
+      "email": "andianggraini61@sidiktalent.com",
+      "title": "Keren banget sih ini!",
+      "content": "Dijelasin step by step, jadi ngerti beneran.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Hendra Utami",
+      "email": "hendrautami25@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "Langsung bisa bikin app chat sendiri, gokil!",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Eka Gunawan",
+      "email": "ekagunawan21@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Dijelasin step by step, jadi ngerti beneran.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Nina Putra",
+      "email": "ninaputra19@sidiktalent.com",
+      "title": "Seru abis materinya",
+      "content": "Mantap, banyak tips and trik kece juga.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Citra Lestari",
+      "email": "citralestari55@sidiktalent.com",
+      "title": "Keren banget sih ini!",
+      "content": "Jadi ngerti Firebase, padahal awalnya bingung.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Hendra Gunawan",
+      "email": "hendragunawan97@sidiktalent.com",
+      "title": "Udah kayak pro aja",
+      "content": "Buat yang mau mulai belajar, ini sih pas banget.",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Lina Anggraini",
+      "email": "linaanggraini50@sidiktalent.com",
+      "title": "Fix nambah skill",
+      "content": "Gila sih, materinya gampang dicerna banget!",
+      "rating": 4
+    },
+    {
+      "course_id": 22435,
+      "author": "Nina Lestari",
+      "email": "ninalestari27@sidiktalent.com",
+      "title": "Asli mantap bet",
+      "content": "Langsung bisa bikin app chat sendiri, gokil!",
+      "rating": 4
+    }
+  ]
+}

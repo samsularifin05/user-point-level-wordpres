@@ -1,0 +1,2404 @@
+{
+    "comments": [
+        {
+            "course_id": 22868,
+            "author": "Oki Wulandari",
+            "email": "okiwulandari39@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Kurniawan",
+            "email": "budikurniawan74@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Sari",
+            "email": "fajarsari60@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Putri Lestari",
+            "email": "putrilestari18@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Pratama",
+            "email": "indahpratama56@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Putra",
+            "email": "kikiputra79@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Gita Ramadhan",
+            "email": "gitaramadhan26@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Pratama",
+            "email": "okipratama25@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Kurniawan",
+            "email": "budikurniawan26@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Pratama",
+            "email": "jokopratama50@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Santoso",
+            "email": "sarisantoso78@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Kurniawan",
+            "email": "indahkurniawan59@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Santoso",
+            "email": "citrasantoso41@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Utami",
+            "email": "ninautami18@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Fauzi",
+            "email": "kikifauzi19@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Ramadhan",
+            "email": "tonoramadhan31@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Wijaya",
+            "email": "citrawijaya29@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Sari",
+            "email": "indahsari52@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Putra",
+            "email": "budiputra75@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Wulandari",
+            "email": "vinawulandari83@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Kurniawan",
+            "email": "kikikurniawan12@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Sari",
+            "email": "kikisari65@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Wulandari",
+            "email": "andiwulandari59@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Utami",
+            "email": "fajarutami36@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Putri Wijaya",
+            "email": "putriwijaya47@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Pratama",
+            "email": "kikipratama45@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Gunawan",
+            "email": "miragunawan74@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Kurniawan",
+            "email": "dinakurniawan53@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Kusuma",
+            "email": "citrakusuma85@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Utami",
+            "email": "vinautami83@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Santoso",
+            "email": "mirasantoso31@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Fauzi",
+            "email": "vinafauzi45@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Rudi Ramadhan",
+            "email": "rudiramadhan16@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Wijaya",
+            "email": "jokowijaya71@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Utami",
+            "email": "vinautami77@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Putra",
+            "email": "okiputra35@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Santoso",
+            "email": "dinasantoso99@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Utami",
+            "email": "fajarutami43@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Gita Anggraini",
+            "email": "gitaanggraini54@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Saputra",
+            "email": "kikisaputra12@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Putra",
+            "email": "vinaputra94@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Rudi Kusuma",
+            "email": "rudikusuma16@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Utami",
+            "email": "okiutami33@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Kusuma",
+            "email": "indahkusuma99@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Fauzi",
+            "email": "vinafauzi24@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Santoso",
+            "email": "fajarsantoso67@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Wijaya",
+            "email": "vinawijaya78@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Putra",
+            "email": "citraputra23@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Pratama",
+            "email": "indahpratama85@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Utami",
+            "email": "okiutami44@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Fauzi",
+            "email": "vinafauzi98@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Lestari",
+            "email": "indahlestari57@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Wijaya",
+            "email": "andiwijaya32@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Pratama",
+            "email": "budipratama62@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Kusuma",
+            "email": "vinakusuma32@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Sari",
+            "email": "dinasari72@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Eka Gunawan",
+            "email": "ekagunawan49@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Wulandari",
+            "email": "sariwulandari14@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Wijaya",
+            "email": "ninawijaya15@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Lestari",
+            "email": "tonolestari39@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Ramadhan",
+            "email": "jokoramadhan52@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Lestari",
+            "email": "citralestari87@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Fauzi",
+            "email": "dinafauzi68@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Utami",
+            "email": "ninautami58@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Putri Ramadhan",
+            "email": "putriramadhan60@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Fauzi",
+            "email": "vinafauzi29@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Saputra",
+            "email": "dinasaputra83@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Santoso",
+            "email": "indahsantoso94@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Rudi Sari",
+            "email": "rudisari26@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Eka Utami",
+            "email": "ekautami14@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Wulandari",
+            "email": "dinawulandari88@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Wijaya",
+            "email": "citrawijaya17@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Wijaya",
+            "email": "dinawijaya95@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Santoso",
+            "email": "ninasantoso87@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Rudi Lestari",
+            "email": "rudilestari13@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Utami",
+            "email": "kikiutami38@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Kurniawan",
+            "email": "sarikurniawan48@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Utami",
+            "email": "dinautami27@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Wijaya",
+            "email": "vinawijaya43@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Kurniawan",
+            "email": "kikikurniawan18@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Lestari",
+            "email": "dinalestari68@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Eka Wulandari",
+            "email": "ekawulandari23@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Wijaya",
+            "email": "okiwijaya97@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Putra",
+            "email": "jokoputra39@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Kurniawan",
+            "email": "vinakurniawan54@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Eka Putra",
+            "email": "ekaputra86@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Gunawan",
+            "email": "kikigunawan44@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Eka Ramadhan",
+            "email": "ekaramadhan29@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Anggraini",
+            "email": "budianggraini88@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Lina Wulandari",
+            "email": "linawulandari29@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Kusuma",
+            "email": "indahkusuma74@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Lina Utami",
+            "email": "linautami39@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Kurniawan",
+            "email": "andikurniawan39@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Lestari",
+            "email": "kikilestari86@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Wulandari",
+            "email": "mirawulandari67@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Fauzi",
+            "email": "citrafauzi75@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Pratama",
+            "email": "hendrapratama78@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Putra",
+            "email": "citraputra20@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Sari",
+            "email": "mirasari90@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Ramadhan",
+            "email": "okiramadhan32@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Gita Kurniawan",
+            "email": "gitakurniawan82@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Rudi Lestari",
+            "email": "rudilestari45@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Kusuma",
+            "email": "kikikusuma39@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Sari",
+            "email": "mirasari84@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Gita Ramadhan",
+            "email": "gitaramadhan89@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Ramadhan",
+            "email": "ninaramadhan31@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Gunawan",
+            "email": "indahgunawan85@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Santoso",
+            "email": "kikisantoso98@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Anggraini",
+            "email": "andianggraini63@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Kurniawan",
+            "email": "fajarkurniawan32@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Lestari",
+            "email": "fajarlestari17@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Santoso",
+            "email": "jokosantoso33@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Pratama",
+            "email": "dinapratama27@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Lestari",
+            "email": "andilestari93@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Wijaya",
+            "email": "tonowijaya14@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Ramadhan",
+            "email": "ninaramadhan23@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Lestari",
+            "email": "dinalestari88@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Kurniawan",
+            "email": "vinakurniawan81@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Wulandari",
+            "email": "andiwulandari43@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Anggraini",
+            "email": "vinaanggraini63@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Wijaya",
+            "email": "jokowijaya39@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Putra",
+            "email": "budiputra75@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Wijaya",
+            "email": "jokowijaya21@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Wulandari",
+            "email": "kikiwulandari99@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Sari",
+            "email": "kikisari64@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Wijaya",
+            "email": "okiwijaya40@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Gita Ramadhan",
+            "email": "gitaramadhan13@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Santoso",
+            "email": "citrasantoso10@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Saputra",
+            "email": "vinasaputra11@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Wijaya",
+            "email": "ninawijaya82@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Sari",
+            "email": "dinasari71@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Gunawan",
+            "email": "ninagunawan17@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Saputra",
+            "email": "andisaputra11@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Wulandari",
+            "email": "budiwulandari44@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Putra",
+            "email": "indahputra84@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Sari",
+            "email": "sarisari45@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Santoso",
+            "email": "vinasantoso59@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Anggraini",
+            "email": "sarianggraini91@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Lestari",
+            "email": "tonolestari86@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Putra",
+            "email": "okiputra26@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Pratama",
+            "email": "fajarpratama39@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Kusuma",
+            "email": "okikusuma13@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Lina Pratama",
+            "email": "linapratama57@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Sari",
+            "email": "tonosari53@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Eka Santoso",
+            "email": "ekasantoso14@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Wulandari",
+            "email": "fajarwulandari73@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Pratama",
+            "email": "dinapratama85@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Gunawan",
+            "email": "miragunawan96@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Rudi Sari",
+            "email": "rudisari52@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Kurniawan",
+            "email": "hendrakurniawan88@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Santoso",
+            "email": "kikisantoso42@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Kusuma",
+            "email": "mirakusuma73@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Kusuma",
+            "email": "budikusuma30@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Rudi Ramadhan",
+            "email": "rudiramadhan78@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Lina Saputra",
+            "email": "linasaputra16@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Sari",
+            "email": "vinasari30@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Fauzi",
+            "email": "hendrafauzi67@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Lina Putra",
+            "email": "linaputra89@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Lina Ramadhan",
+            "email": "linaramadhan79@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Lina Kusuma",
+            "email": "linakusuma40@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Pratama",
+            "email": "vinapratama53@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Saputra",
+            "email": "andisaputra32@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Rudi Pratama",
+            "email": "rudipratama69@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Gita Fauzi",
+            "email": "gitafauzi69@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Pratama",
+            "email": "saripratama30@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Santoso",
+            "email": "okisantoso81@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Wijaya",
+            "email": "fajarwijaya12@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Sari",
+            "email": "andisari96@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Putra",
+            "email": "vinaputra73@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Saputra",
+            "email": "dinasaputra90@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Lestari",
+            "email": "ninalestari24@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Lestari",
+            "email": "tonolestari68@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Gita Wulandari",
+            "email": "gitawulandari19@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Anggraini",
+            "email": "tonoanggraini12@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Putri Anggraini",
+            "email": "putrianggraini33@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Santoso",
+            "email": "dinasantoso27@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Putra",
+            "email": "jokoputra17@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Wulandari",
+            "email": "indahwulandari46@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Gunawan",
+            "email": "ninagunawan94@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Anggraini",
+            "email": "andianggraini32@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Utami",
+            "email": "jokoutami89@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Utami",
+            "email": "okiutami84@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Gunawan",
+            "email": "budigunawan87@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Santoso",
+            "email": "citrasantoso35@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Putra",
+            "email": "sariputra92@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Wijaya",
+            "email": "budiwijaya53@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Gunawan",
+            "email": "tonogunawan76@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Lestari",
+            "email": "hendralestari36@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Putra",
+            "email": "andiputra18@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Wijaya",
+            "email": "budiwijaya10@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Kusuma",
+            "email": "fajarkusuma83@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Wijaya",
+            "email": "hendrawijaya66@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Putri Utami",
+            "email": "putriutami94@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Eka Gunawan",
+            "email": "ekagunawan88@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Kurniawan",
+            "email": "hendrakurniawan68@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Sari",
+            "email": "andisari65@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Pratama",
+            "email": "saripratama58@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Ramadhan",
+            "email": "fajarramadhan71@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Wulandari",
+            "email": "tonowulandari59@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Kusuma",
+            "email": "budikusuma49@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Anggraini",
+            "email": "indahanggraini65@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Putra",
+            "email": "okiputra63@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Anggraini",
+            "email": "sarianggraini92@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Lestari",
+            "email": "miralestari97@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Anggraini",
+            "email": "miraanggraini19@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Pratama",
+            "email": "tonopratama83@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Anggraini",
+            "email": "citraanggraini10@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Utami",
+            "email": "fajarutami49@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Eka Wulandari",
+            "email": "ekawulandari56@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Ramadhan",
+            "email": "ninaramadhan18@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Saputra",
+            "email": "tonosaputra67@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Anggraini",
+            "email": "indahanggraini94@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Lestari",
+            "email": "okilestari36@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Eka Fauzi",
+            "email": "ekafauzi63@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Saputra",
+            "email": "fajarsaputra71@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Lestari",
+            "email": "budilestari73@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Wijaya",
+            "email": "citrawijaya86@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Lina Lestari",
+            "email": "linalestari72@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Santoso",
+            "email": "kikisantoso51@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Ramadhan",
+            "email": "okiramadhan34@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Sari",
+            "email": "tonosari84@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Kusuma",
+            "email": "fajarkusuma16@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Lestari",
+            "email": "andilestari25@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Lestari",
+            "email": "dinalestari79@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Lina Sari",
+            "email": "linasari23@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Anggraini",
+            "email": "hendraanggraini38@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Saputra",
+            "email": "dinasaputra86@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Eka Saputra",
+            "email": "ekasaputra77@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Santoso",
+            "email": "mirasantoso69@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Anggraini",
+            "email": "hendraanggraini34@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Fauzi",
+            "email": "indahfauzi42@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Fauzi",
+            "email": "hendrafauzi16@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Putra",
+            "email": "jokoputra91@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Gita Anggraini",
+            "email": "gitaanggraini57@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Kurniawan",
+            "email": "fajarkurniawan49@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Ramadhan",
+            "email": "hendraramadhan63@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Putri Putra",
+            "email": "putriputra32@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Rudi Saputra",
+            "email": "rudisaputra79@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Wulandari",
+            "email": "mirawulandari36@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Kusuma",
+            "email": "sarikusuma48@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Santoso",
+            "email": "ninasantoso99@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Santoso",
+            "email": "hendrasantoso29@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Lina Wijaya",
+            "email": "linawijaya12@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Gunawan",
+            "email": "dinagunawan90@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Santoso",
+            "email": "mirasantoso86@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Putra",
+            "email": "sariputra48@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Andi Santoso",
+            "email": "andisantoso19@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Pratama",
+            "email": "jokopratama85@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Saputra",
+            "email": "mirasaputra45@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Wijaya",
+            "email": "tonowijaya62@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Citra Sari",
+            "email": "citrasari82@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Ramadhan",
+            "email": "jokoramadhan24@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Indah Utami",
+            "email": "indahutami87@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Putri Pratama",
+            "email": "putripratama29@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Gunawan",
+            "email": "budigunawan73@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Santoso",
+            "email": "okisantoso43@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Kusuma",
+            "email": "vinakusuma10@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Kurniawan",
+            "email": "budikurniawan12@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Kusuma",
+            "email": "tonokusuma21@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Lestari",
+            "email": "vinalestari51@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Fauzi",
+            "email": "kikifauzi67@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Rudi Anggraini",
+            "email": "rudianggraini82@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Gunawan",
+            "email": "budigunawan71@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Gunawan",
+            "email": "vinagunawan13@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Kusuma",
+            "email": "mirakusuma74@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Kurniawan",
+            "email": "tonokurniawan78@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Kusuma",
+            "email": "okikusuma61@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Ramadhan",
+            "email": "dinaramadhan25@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Lina Fauzi",
+            "email": "linafauzi98@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Putra",
+            "email": "sariputra85@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Putri Wulandari",
+            "email": "putriwulandari46@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Wijaya",
+            "email": "ninawijaya66@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Kurniawan",
+            "email": "sarikurniawan36@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Oki Santoso",
+            "email": "okisantoso44@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Eka Gunawan",
+            "email": "ekagunawan16@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Kusuma",
+            "email": "budikusuma24@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Utami",
+            "email": "tonoutami45@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Putri Kurniawan",
+            "email": "putrikurniawan59@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Pratama",
+            "email": "kikipratama79@sidiktalent.com",
+            "title": "Kursus sangat membantu",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Ramadhan",
+            "email": "budiramadhan95@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Pratama",
+            "email": "kikipratama37@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Nina Utami",
+            "email": "ninautami87@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Materi dijelaskan dengan sangat rinci dan lengkap.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Mira Ramadhan",
+            "email": "miraramadhan21@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Santoso",
+            "email": "hendrasantoso47@sidiktalent.com",
+            "title": "Instruktur berpengalaman",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Putri Ramadhan",
+            "email": "putriramadhan90@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Joko Pratama",
+            "email": "jokopratama19@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Saya bisa mengikuti materi dengan mudah dan lancar.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Saputra",
+            "email": "dinasaputra13@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Materi lengkap dan instruktur sangat profesional.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Hendra Wijaya",
+            "email": "hendrawijaya78@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Kursus ini memberikan materi yang lengkap dan menarik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Ramadhan",
+            "email": "vinaramadhan34@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Penyampaian materi sangat mudah diikuti dan dimengerti.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Santoso",
+            "email": "sarisantoso94@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Dina Pratama",
+            "email": "dinapratama16@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Lina Ramadhan",
+            "email": "linaramadhan14@sidiktalent.com",
+            "title": "Belajar jadi lebih mudah",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Vina Utami",
+            "email": "vinautami15@sidiktalent.com",
+            "title": "Pembelajaran menyenangkan",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Budi Utami",
+            "email": "budiutami99@sidiktalent.com",
+            "title": "Materi sangat informatif",
+            "content": "Kursus ini sangat membantu saya dalam pekerjaan sehari-hari.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Fajar Santoso",
+            "email": "fajarsantoso29@sidiktalent.com",
+            "title": "Penjelasan mudah dipahami",
+            "content": "Saya merasa belajar jadi lebih mudah dengan kursus ini.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Putri Gunawan",
+            "email": "putrigunawan34@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Instruktur menyampaikan materi dengan sangat jelas dan sistematis.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Kiki Anggraini",
+            "email": "kikianggraini97@sidiktalent.com",
+            "title": "Cukup memuaskan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Sari Pratama",
+            "email": "saripratama77@sidiktalent.com",
+            "title": "Kursus direkomendasikan",
+            "content": "Saya banyak belajar hal baru yang berguna untuk pekerjaan saya.",
+            "rating": 5
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Wijaya",
+            "email": "tonowijaya29@sidiktalent.com",
+            "title": "Sangat bermanfaat",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        },
+        {
+            "course_id": 22868,
+            "author": "Tono Lestari",
+            "email": "tonolestari17@sidiktalent.com",
+            "title": "Sesuai ekspektasi",
+            "content": "Kursus ini membantu saya meningkatkan kemampuan dengan baik.",
+            "rating": 4
+        }
+    ]
+}

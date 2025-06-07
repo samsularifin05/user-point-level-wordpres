@@ -18,10 +18,10 @@ add_action('rest_api_init', function () {
 function custom_learnpress_courses($request)
 {
 
-    // $verify = verify_signature($request);
-    // if (is_wp_error($verify)) {
-    //     return $verify; // return error jika signature salah
-    // }
+    $verify = verify_signature($request);
+    if (is_wp_error($verify)) {
+        return $verify; // return error jika signature salah
+    }
     $tags     = $request->get_param('tags');
     $level    = $request->get_param('level');
     $search   = $request->get_param('search');
@@ -389,4 +389,55 @@ function add_fake_course_comment($request)
     }
 
     return rest_ensure_response($results);
+}
+
+add_action('rest_api_init', function () {
+    register_rest_route('custom/v1', '/delete-comments/(?P<user_id>\d+)', [
+        'methods'             => 'DELETE',
+        'callback'            => 'api_delete_comments_by_user_id',
+        'permission_callback' => '__return_true',
+    ]);
+});
+
+function api_delete_comments_by_user_id(WP_REST_Request $request)
+{
+    $verify = verify_signature($request);
+    if (is_wp_error($verify)) {
+        return $verify; // return error jika signature salah
+    }
+    $user_id = intval($request->get_param('user_id'));
+
+    // Panggil fungsi delete yang sudah dibuat
+    $result = delete_comments_by_user_id($user_id);
+
+    return new WP_REST_Response([
+        'message' => $result,
+    ], 200);
+}
+
+function delete_comments_by_user_id($user_id)
+{
+    global $wpdb;
+
+    // Ambil semua comment_id milik user ini
+    $comment_ids = $wpdb->get_col($wpdb->prepare(
+        "SELECT comment_ID FROM {$wpdb->comments} WHERE user_id = %d",
+        $user_id
+    ));
+
+    if (! empty($comment_ids)) {
+        // Hapus semua commentmeta yang terkait
+        $comment_ids_placeholder = implode(',', array_fill(0, count($comment_ids), '%d'));
+        $query                   = "DELETE FROM {$wpdb->commentmeta} WHERE comment_id IN (" . $comment_ids_placeholder . ")";
+        $wpdb->query($wpdb->prepare($query, ...$comment_ids));
+
+        // Hapus komentar-komentarnya
+        foreach ($comment_ids as $comment_id) {
+            wp_delete_comment($comment_id, true); // true = force delete, tidak masuk trash
+        }
+
+        return "Deleted " . count($comment_ids) . " comments and related meta for user ID: $user_id";
+    }
+
+    return "No comments found for user ID: $user_id";
 }

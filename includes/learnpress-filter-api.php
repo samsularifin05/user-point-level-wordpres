@@ -7,6 +7,11 @@ function register_lp_course_tags()
 }
 add_action('init', 'register_lp_course_tags');
 
+add_action('rest_pre_serve_request', function ($served, $result, $request, $server) {
+    header("Access-Control-Allow-Headers: Content-Type, X-Signature,x-timestamp, Authorization");
+    return $served;
+}, 10, 4);
+
 add_action('rest_api_init', function () {
     register_rest_route('learnpress/v1', '/courses', [
         'methods'             => 'GET',

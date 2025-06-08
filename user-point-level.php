@@ -23,6 +23,7 @@ require_once plugin_dir_path(__FILE__) . 'includes/inject-rank-all-bbPres.php';
 require_once plugin_dir_path(__FILE__) . 'includes/update-profile-bbpres.php';
 require_once plugin_dir_path(__FILE__) . 'includes/edit-data-user.php';
 require_once plugin_dir_path(__FILE__) . 'includes/learnpress-filter-api.php';
+require_once plugin_dir_path(__FILE__) . 'includes/reidectLogin.php';
 
 // Buat Menu di Admin
 add_action('admin_menu', function () {
